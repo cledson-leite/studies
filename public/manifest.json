@@ -1,0 +1,8 @@
+{
+  "short_name": "Studies",
+  "name": "Entregável do curso React da Alura",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
